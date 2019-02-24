@@ -44,7 +44,8 @@ module I18nData
       'ZH-TW' => 'zh_TW',
       'ZH-CN' => 'zh_CN',
       'ZH' => 'zh_CN',
-      'BN' => 'bn_IN'
+      'BN' => 'bn',
+      'BN-IN' => 'bn_IN'
     }
     country_mappings[normal] || normal
   end
